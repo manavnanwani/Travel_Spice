@@ -1,2 +1,2 @@
-# Landrick-React
-Landrick-React
+# Travel_Spice
+Spice Travel
